@@ -1,0 +1,25 @@
+1685380992623	geckodriver	INFO	Listening on 127.0.0.1:59174
+1685380995648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lamij\\AppData\\Local\\Temp\\rust_mozprofilewBdCFB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685380996098	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685380996103	Marionette	INFO	Listening on port 59187
+Read port: 59187
+WebDriver BiDi listening on ws://127.0.0.1:59175
+1685380996316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59175/devtools/browser/2545b433-34dd-42c9-a85c-8fce27ea13f4
+JavaScript error: https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js, line 195: TypeError: url is undefined
+1685381090851	geckodriver	INFO	Listening on 127.0.0.1:59270
+1685381093900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lamij\\AppData\\Local\\Temp\\rust_mozprofilehQiMJl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685381094215	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685381094220	Marionette	INFO	Listening on port 59283
+Read port: 59283
+WebDriver BiDi listening on ws://127.0.0.1:59271
+1685381094408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59271/devtools/browser/fcd4b24d-354d-48b5-b52c-650b82901f52

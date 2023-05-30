@@ -1,2 +1,2 @@
 # selenium
-Exercise NAHLA. 
+Exercise on course NAHLA. 
